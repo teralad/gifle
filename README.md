@@ -1,7 +1,5 @@
-Of course! Here's an example of an engaging and informative README for your 'gifle' gem:
-
-```markdown
 <img width="119" alt="giffle_logo" src="https://github.com/teralad/gifle/assets/26215157/6cd311dd-cc60-410a-af9f-2b1e702b908a">
+```markdown
 
 
 # Gifle - GIF Manipulation Made Easy
