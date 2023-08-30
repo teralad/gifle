@@ -1,6 +1,4 @@
 <img width="119" alt="giffle_logo" src="https://github.com/teralad/gifle/assets/26215157/6cd311dd-cc60-410a-af9f-2b1e702b908a">
-```markdown
-
 
 # Gifle - GIF Manipulation Made Easy
 
@@ -71,10 +69,3 @@ Gifle is open-source software licensed under the [MIT License](LICENSE).
 Gifle is maintained by [Your Name](https://github.com/teralad). Special thanks to all our contributors for making this project awesome!
 
 Enjoy creating stunning GIFs with Gifle! 🎉
-
-<p align="center">
-  <a href="https://github.com/teralad/gifle"><img src="gifle_footer.png" alt="Gifle" width="200"></a>
-</p>
-```
-
-This README provides an overview of your gem's features, installation instructions, usage examples, contribution guidelines, community support, and licensing information. You can customize it further to include specific details about your gem and its capabilities. Don't forget to replace 'Your Name' and add your own logo and footer images to personalize the README.
