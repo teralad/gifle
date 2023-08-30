@@ -66,6 +66,6 @@ Gifle is open-source software licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-Gifle is maintained by [Your Name](https://github.com/teralad). Special thanks to all our contributors for making this project awesome!
+Gifle is maintained by [Varun](https://github.com/teralad). Special thanks to all our contributors for making this project awesome!
 
 Enjoy creating stunning GIFs with Gifle! 🎉
